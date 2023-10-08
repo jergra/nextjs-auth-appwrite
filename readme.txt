@@ -17,7 +17,7 @@ start:
     npm run dev
 
 deployed:
-    https://nextjs-auth-project-appwrite.vercel.app
+    https://nextjs-auth-appwrite-sigma.vercel.app
 
 
 
