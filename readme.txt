@@ -12,7 +12,6 @@ This appwrite authentication project is the second half of the above tutorial.
 
 The first half of the tutorial (authentication without appwrite) is in dev/nextjs-auth-project-jergra43.
 
-
 start:
     npm run dev
 
